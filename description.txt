@@ -1,0 +1,6 @@
+App uses simple and free api key which is for free at openweathermap.org
+All you need to do is sign up and retrieve key from account to past it as 
+a variable in mine python script file
+
+
+Piotr Jagiello
